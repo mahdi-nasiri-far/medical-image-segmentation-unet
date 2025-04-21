@@ -1,0 +1,21 @@
+----------
+model name: unet_v1
+epochs: 200
+steps_per_epoch: 850
+dimension: 128
+n_channels: 2
+input layer: KerasTensor(type_spec=TensorSpec(shape=(None, 128, 128, 2), dtype=tf.float32, name='input_1'), name='input_1', description="created by layer 'input_1'")
+kernel init: he_normal
+dropout: 0.2
+kernel size: 5 * 5
+learning rate: 0.0001
+loss function: <function focal_dice_loss at 0x7f0c84b97430>
+train cases: 850
+train slices: 9830
+validation cases: 251
+val slices: 2862
+slice index: 40 ~ 116
+tumor ratio: 0.1 ~ 0.15
+test cases: 150
+start training at: Apr-16_00-33-49
+----------
