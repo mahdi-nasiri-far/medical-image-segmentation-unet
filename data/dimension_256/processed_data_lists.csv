@@ -7,3 +7,4 @@ tumor_ratio_lower_bound,tumor_ratio_upper_bound,train_slices,val_slices,test_sli
 0.25,0.35,1427,365,179,Mar-22_19-45-55
 0.15,0.2,7678,2139,1382,Mar-22_20-49-24
 0.2,0.25,3615,1092,551,Mar-22_22-29-13
+0.15,0.2,8649,1978,572,Apr-28_09-59-35
