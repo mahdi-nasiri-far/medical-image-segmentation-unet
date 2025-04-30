@@ -1,4 +1,4 @@
-NIfTI ID,Slice Index,Tumor Ratio,Tumor Area (in pixel),Brain Area (in pixel),Tumor Area (in mm),Brain Area (in mm)
+nifti_id,slice_index,tumor_ratio,tumor_area_in_pixel,brain_area_in_pixel,tumor_area_in_µm,brain_area_in_µm
 BraTS-GLI-00615-000,40,0.0104,115,11032,115.0,11032.0
 BraTS-GLI-00615-000,41,0.0231,265,11476,265.0,11476.0
 BraTS-GLI-00615-000,42,0.0341,403,11832,403.0,11832.0
