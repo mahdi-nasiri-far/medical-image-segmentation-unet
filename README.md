@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.7%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub stars](https://img.shields.io/github/stars/mahdi-nasiri-far/medical-image-segmentation-unet)
 # Medical Image Segmentation with U-Net
 
 ![U-Net Architecture](https://github.com/mahdi-nasiri-far/medical-image-segmentation-unet/raw/main/docs/unet-architecture.png)
